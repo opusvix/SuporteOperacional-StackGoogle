@@ -1,0 +1,301 @@
+id_chamado,data_abertura,data_fechamento,status,unidade,tipo_servico,prioridade,sla_horas,tempo_resolucao_horas,dentro_sla
+1,2025-11-30 10:58:28,,Em andamento,Unidade B,Suporte Técnico,Média,48,,
+2,2025-11-05 10:58:28,,Aberto,Unidade A,Solicitação,Baixa,72,,
+3,2025-10-26 10:58:28,2025-10-27 01:58:28,Concluído,Unidade B,Suporte Técnico,Média,48,14.1,TRUE
+4,2025-10-31 10:58:28,,Em andamento,Unidade A,Suporte Técnico,Média,48,,
+5,2025-11-03 10:58:28,2025-11-06 10:58:28,Concluído,Unidade C,Solicitação,Média,48,12.3,FALSE
+6,2025-10-29 10:58:28,2025-10-29 12:58:28,Concluído,Unidade B,Suporte Técnico,Alta,24,1.1,TRUE
+7,2025-12-19 10:58:28,,Aberto,Unidade D,Manutenção,Baixa,72,,
+8,2025-11-24 10:58:28,,Em andamento,Unidade B,Suporte Técnico,Média,48,,
+9,2025-12-15 10:58:28,,Em andamento,Unidade A,Incidente,Alta,24,,
+10,2025-12-12 10:58:28,2025-12-12 14:58:28,Concluído,Unidade A,Suporte Técnico,Alta,24,3.1,TRUE
+11,2025-11-16 10:58:28,,Em andamento,Unidade A,Suporte Técnico,Baixa,72,,
+12,2025-12-23 10:58:28,2025-12-26 09:58:28,Concluído,Unidade A,Incidente,Média,48,11.3,FALSE
+13,2026-01-14 10:58:28,2026-01-14 16:58:28,Concluído,Unidade D,Manutenção,Baixa,72,5.1,TRUE
+14,2026-01-19 10:58:28,,Em andamento,Unidade A,Incidente,Baixa,72,,
+15,2025-12-12 10:58:28,2025-12-13 05:58:28,Concluído,Unidade A,Manutenção,Média,48,18.1,TRUE
+16,2025-12-15 10:58:28,2025-12-17 22:58:28,Concluído,Unidade D,Solicitação,Média,48,28.2,FALSE
+17,2026-01-05 10:58:28,,Em andamento,Unidade C,Incidente,Alta,24,,
+18,2025-11-23 10:58:28,2025-11-25 06:58:28,Concluído,Unidade B,Solicitação,Alta,24,12.2,FALSE
+19,2025-10-31 10:58:28,2025-10-31 16:58:28,Concluído,Unidade D,Suporte Técnico,Baixa,72,5.1,TRUE
+20,2025-11-27 10:58:28,2025-11-27 19:58:28,Concluído,Unidade B,Suporte Técnico,Baixa,72,8.1,TRUE
+21,2025-11-14 10:58:28,2025-11-16 06:58:28,Concluído,Unidade C,Solicitação,Baixa,72,12.2,TRUE
+22,2025-11-30 10:58:28,,Em andamento,Unidade C,Incidente,Baixa,72,,
+23,2025-11-13 10:58:28,,Aberto,Unidade D,Solicitação,Alta,24,,
+24,2025-10-26 10:58:28,2025-10-28 00:58:28,Concluído,Unidade D,Suporte Técnico,Baixa,72,6.2,TRUE
+25,2025-10-24 10:58:28,2025-10-25 00:58:28,Concluído,Unidade D,Suporte Técnico,Média,48,13.1,TRUE
+26,2026-01-11 10:58:28,,Aberto,Unidade B,Suporte Técnico,Média,48,,
+27,2025-12-20 10:58:28,,Aberto,Unidade A,Suporte Técnico,Alta,24,,
+28,2025-12-17 10:58:28,2025-12-19 12:58:28,Concluído,Unidade B,Solicitação,Baixa,72,18.2,TRUE
+29,2025-12-21 10:58:28,2025-12-21 20:58:28,Concluído,Unidade D,Solicitação,Alta,24,9.1,TRUE
+30,2025-10-26 10:58:28,,Aberto,Unidade B,Manutenção,Baixa,72,,
+31,2025-12-18 10:58:28,2025-12-19 10:58:28,Concluído,Unidade A,Solicitação,Média,48,23.1,TRUE
+32,2025-10-22 10:58:28,,Em andamento,Unidade B,Manutenção,Média,48,,
+33,2025-12-28 10:58:28,2025-12-30 12:58:28,Concluído,Unidade C,Solicitação,Média,48,18.2,FALSE
+34,2025-12-07 10:58:28,,Em andamento,Unidade D,Solicitação,Alta,24,,
+35,2025-12-01 10:58:28,,Aberto,Unidade D,Incidente,Média,48,,
+36,2026-01-18 10:58:28,,Em andamento,Unidade D,Solicitação,Média,48,,
+37,2026-01-15 10:58:28,,Aberto,Unidade B,Manutenção,Baixa,72,,
+38,2025-12-26 10:58:28,2025-12-26 22:58:28,Concluído,Unidade C,Incidente,Baixa,72,11.1,TRUE
+39,2025-11-28 10:58:28,,Aberto,Unidade B,Suporte Técnico,Alta,24,,
+40,2025-12-13 10:58:28,2025-12-14 16:58:28,Concluído,Unidade C,Suporte Técnico,Média,48,29.1,TRUE
+41,2026-01-14 10:58:28,,Em andamento,Unidade C,Suporte Técnico,Média,48,,
+42,2026-01-14 10:58:28,2026-01-15 18:58:28,Concluído,Unidade D,Suporte Técnico,Alta,24,31.1,FALSE
+43,2025-12-17 10:58:28,,Em andamento,Unidade C,Suporte Técnico,Baixa,72,,
+44,2025-12-30 10:58:28,2026-01-02 08:58:28,Concluído,Unidade A,Suporte Técnico,Baixa,72,10.3,TRUE
+45,2025-12-28 10:58:28,,Em andamento,Unidade C,Solicitação,Baixa,72,,
+46,2025-12-30 10:58:28,,Em andamento,Unidade C,Incidente,Baixa,72,,
+47,2025-11-22 10:58:28,,Aberto,Unidade C,Manutenção,Média,48,,
+48,2025-12-21 10:58:28,,Em andamento,Unidade D,Incidente,Baixa,72,,
+49,2026-01-09 10:58:28,,Aberto,Unidade D,Solicitação,Alta,24,,
+50,2025-11-23 10:58:28,,Aberto,Unidade D,Incidente,Média,48,,
+51,2025-10-27 10:58:28,,Em andamento,Unidade A,Incidente,Média,48,,
+52,2026-01-03 10:58:28,,Em andamento,Unidade B,Solicitação,Média,48,,
+53,2025-12-08 10:58:28,2025-12-08 21:58:28,Concluído,Unidade A,Solicitação,Alta,24,10.1,TRUE
+54,2025-11-30 10:58:28,2025-11-30 12:58:28,Concluído,Unidade D,Suporte Técnico,Alta,24,1.1,TRUE
+55,2025-12-18 10:58:28,,Em andamento,Unidade A,Incidente,Baixa,72,,
+56,2025-12-04 10:58:28,,Aberto,Unidade D,Manutenção,Média,48,,
+57,2025-10-26 10:58:28,,Aberto,Unidade C,Incidente,Baixa,72,,
+58,2025-12-19 10:58:28,,Aberto,Unidade D,Incidente,Baixa,72,,
+59,2025-11-18 10:58:28,,Em andamento,Unidade C,Suporte Técnico,Baixa,72,,
+60,2025-11-12 10:58:28,2025-11-13 03:58:28,Concluído,Unidade B,Incidente,Baixa,72,16.1,TRUE
+61,2025-12-30 10:58:28,2026-01-01 09:58:28,Concluído,Unidade A,Solicitação,Média,48,15.2,TRUE
+62,2025-10-23 10:58:28,,Aberto,Unidade D,Suporte Técnico,Alta,24,,
+63,2025-12-20 10:58:28,,Aberto,Unidade C,Suporte Técnico,Média,48,,
+64,2026-01-09 10:58:28,,Em andamento,Unidade B,Solicitação,Alta,24,,
+65,2025-12-15 10:58:28,,Aberto,Unidade B,Solicitação,Média,48,,
+66,2025-11-03 10:58:28,,Aberto,Unidade D,Manutenção,Média,48,,
+67,2025-11-13 10:58:28,,Aberto,Unidade D,Solicitação,Alta,24,,
+68,2025-10-22 10:58:28,,Aberto,Unidade A,Manutenção,Baixa,72,,
+69,2025-12-30 10:58:28,,Em andamento,Unidade A,Incidente,Alta,24,,
+70,2025-11-02 10:58:28,,Aberto,Unidade B,Manutenção,Baixa,72,,
+71,2025-11-27 10:58:28,,Em andamento,Unidade B,Suporte Técnico,Alta,24,,
+72,2025-11-09 10:58:28,,Em andamento,Unidade C,Manutenção,Média,48,,
+73,2026-01-02 10:58:28,2026-01-05 01:58:28,Concluído,Unidade B,Suporte Técnico,Média,48,3.3,FALSE
+74,2026-01-10 10:58:28,,Aberto,Unidade D,Manutenção,Baixa,72,,
+75,2025-10-23 10:58:28,,Aberto,Unidade C,Manutenção,Alta,24,,
+76,2025-11-04 10:58:28,,Aberto,Unidade A,Incidente,Média,48,,
+77,2025-12-13 10:58:28,,Aberto,Unidade D,Manutenção,Alta,24,,
+78,2026-01-01 10:58:28,,Em andamento,Unidade B,Suporte Técnico,Média,48,,
+79,2025-12-06 10:58:28,,Em andamento,Unidade C,Solicitação,Alta,24,,
+80,2025-12-22 10:58:28,,Em andamento,Unidade D,Incidente,Baixa,72,,
+81,2025-12-21 10:58:28,2025-12-22 03:58:28,Concluído,Unidade A,Manutenção,Média,48,16.1,TRUE
+82,2025-12-23 10:58:28,,Aberto,Unidade D,Solicitação,Média,48,,
+83,2025-12-09 10:58:28,2025-12-12 06:58:28,Concluído,Unidade C,Solicitação,Média,48,8.3,FALSE
+84,2025-11-03 10:58:28,2025-11-03 14:58:28,Concluído,Unidade B,Solicitação,Média,48,3.1,TRUE
+85,2025-12-29 10:58:28,,Aberto,Unidade D,Suporte Técnico,Alta,24,,
+86,2025-11-15 10:58:28,,Aberto,Unidade C,Suporte Técnico,Baixa,72,,
+87,2025-12-08 10:58:28,,Aberto,Unidade D,Solicitação,Média,48,,
+88,2025-11-15 10:58:28,2025-11-16 20:58:28,Concluído,Unidade B,Manutenção,Média,48,2.2,TRUE
+89,2025-12-17 10:58:28,,Aberto,Unidade D,Solicitação,Alta,24,,
+90,2026-01-07 10:58:28,,Em andamento,Unidade D,Incidente,Alta,24,,
+91,2025-12-23 10:58:28,,Em andamento,Unidade C,Solicitação,Alta,24,,
+92,2026-01-09 10:58:28,2026-01-10 17:58:28,Concluído,Unidade D,Manutenção,Média,48,30.1,TRUE
+93,2025-10-26 10:58:28,2025-10-28 02:58:28,Concluído,Unidade D,Manutenção,Baixa,72,8.2,TRUE
+94,2025-11-04 10:58:28,,Aberto,Unidade C,Incidente,Baixa,72,,
+95,2026-01-17 10:58:28,2026-01-18 00:58:28,Concluído,Unidade D,Solicitação,Alta,24,13.1,TRUE
+96,2025-12-25 10:58:28,2025-12-28 05:58:28,Concluído,Unidade A,Solicitação,Baixa,72,7.3,TRUE
+97,2025-12-23 10:58:28,,Em andamento,Unidade C,Suporte Técnico,Alta,24,,
+98,2025-12-30 10:58:28,,Aberto,Unidade A,Suporte Técnico,Baixa,72,,
+99,2025-10-23 10:58:28,,Aberto,Unidade D,Manutenção,Baixa,72,,
+100,2026-01-19 10:58:28,,Em andamento,Unidade D,Incidente,Média,48,,
+101,2025-10-30 10:58:28,,Aberto,Unidade B,Manutenção,Baixa,72,,
+102,2025-12-24 10:58:28,,Em andamento,Unidade D,Solicitação,Média,48,,
+103,2025-11-19 10:58:28,,Aberto,Unidade B,Suporte Técnico,Média,48,,
+104,2025-11-10 10:58:28,,Em andamento,Unidade D,Incidente,Baixa,72,,
+105,2026-01-13 10:58:28,,Aberto,Unidade D,Suporte Técnico,Baixa,72,,
+106,2025-12-22 10:58:28,,Aberto,Unidade C,Suporte Técnico,Média,48,,
+107,2025-12-05 10:58:28,2025-12-05 21:58:28,Concluído,Unidade C,Suporte Técnico,Baixa,72,10.1,TRUE
+108,2025-12-22 10:58:28,,Aberto,Unidade A,Solicitação,Média,48,,
+109,2026-01-12 10:58:28,2026-01-12 14:58:28,Concluído,Unidade A,Incidente,Baixa,72,3.1,TRUE
+110,2025-12-23 10:58:28,,Aberto,Unidade D,Manutenção,Baixa,72,,
+111,2026-01-08 10:58:28,,Em andamento,Unidade A,Solicitação,Alta,24,,
+112,2025-12-23 10:58:28,,Em andamento,Unidade C,Incidente,Baixa,72,,
+113,2026-01-05 10:58:28,2026-01-08 09:58:28,Concluído,Unidade A,Solicitação,Baixa,72,11.3,TRUE
+114,2025-11-05 10:58:28,2025-11-05 14:58:28,Concluído,Unidade B,Solicitação,Baixa,72,3.1,TRUE
+115,2025-12-20 10:58:28,,Aberto,Unidade A,Manutenção,Média,48,,
+116,2025-11-10 10:58:28,,Aberto,Unidade C,Solicitação,Média,48,,
+117,2025-12-20 10:58:28,,Aberto,Unidade A,Manutenção,Média,48,,
+118,2025-11-19 10:58:28,2025-11-21 21:58:28,Concluído,Unidade B,Solicitação,Alta,24,27.2,FALSE
+119,2025-11-07 10:58:28,,Aberto,Unidade D,Incidente,Média,48,,
+120,2026-01-14 10:58:28,,Em andamento,Unidade D,Suporte Técnico,Média,48,,
+121,2026-01-20 10:58:28,2026-01-22 00:58:28,Concluído,Unidade A,Solicitação,Baixa,72,6.2,TRUE
+122,2025-11-26 10:58:28,2025-11-26 11:58:28,Concluído,Unidade C,Suporte Técnico,Baixa,72,31.12,TRUE
+123,2025-11-12 10:58:28,,Aberto,Unidade C,Manutenção,Alta,24,,
+124,2026-01-05 10:58:28,,Aberto,Unidade C,Incidente,Alta,24,,
+125,2026-01-14 10:58:28,,Aberto,Unidade D,Manutenção,Alta,24,,
+126,2025-12-27 10:58:28,,Em andamento,Unidade A,Suporte Técnico,Baixa,72,,
+127,2025-12-17 10:58:28,2025-12-19 19:58:28,Concluído,Unidade A,Incidente,Média,48,25.2,FALSE
+128,2026-01-07 10:58:28,2026-01-10 10:58:28,Concluído,Unidade C,Solicitação,Média,48,12.3,FALSE
+129,2025-11-24 10:58:28,,Aberto,Unidade D,Solicitação,Média,48,,
+130,2026-01-18 10:58:28,,Aberto,Unidade C,Manutenção,Alta,24,,
+131,2025-10-31 10:58:28,,Em andamento,Unidade C,Solicitação,Média,48,,
+132,2025-12-09 10:58:28,,Em andamento,Unidade A,Incidente,Alta,24,,
+133,2025-12-16 10:58:28,,Aberto,Unidade B,Incidente,Alta,24,,
+134,2025-11-23 10:58:28,2025-11-24 11:58:28,Concluído,Unidade D,Suporte Técnico,Baixa,72,24.1,TRUE
+135,2025-10-23 10:58:28,2025-10-26 06:58:28,Concluído,Unidade B,Solicitação,Alta,24,8.3,FALSE
+136,2025-12-28 10:58:28,,Aberto,Unidade A,Incidente,Alta,24,,
+137,2025-12-13 10:58:28,,Aberto,Unidade C,Manutenção,Baixa,72,,
+138,2025-10-24 10:58:28,,Em andamento,Unidade B,Solicitação,Alta,24,,
+139,2026-01-20 10:58:28,2026-01-22 20:58:28,Concluído,Unidade B,Manutenção,Média,48,26.2,FALSE
+140,2025-11-05 10:58:28,2025-11-08 01:58:28,Concluído,Unidade D,Manutenção,Média,48,3.3,FALSE
+141,2025-10-26 10:58:28,,Aberto,Unidade C,Suporte Técnico,Média,48,,
+142,2025-10-25 10:58:28,,Aberto,Unidade A,Suporte Técnico,Alta,24,,
+143,2025-12-20 10:58:28,,Aberto,Unidade D,Suporte Técnico,Média,48,,
+144,2025-11-05 10:58:28,2025-11-07 17:58:28,Concluído,Unidade D,Manutenção,Baixa,72,23.2,TRUE
+145,2025-12-12 10:58:28,,Aberto,Unidade A,Incidente,Baixa,72,,
+146,2026-01-05 10:58:28,,Em andamento,Unidade B,Suporte Técnico,Alta,24,,
+147,2025-12-09 10:58:28,,Aberto,Unidade D,Suporte Técnico,Alta,24,,
+148,2026-01-01 10:58:28,,Aberto,Unidade A,Manutenção,Baixa,72,,
+149,2025-10-26 10:58:28,,Aberto,Unidade D,Incidente,Média,48,,
+150,2025-12-31 10:58:28,,Aberto,Unidade C,Incidente,Baixa,72,,
+151,2026-01-20 10:58:28,,Aberto,Unidade A,Solicitação,Baixa,72,,
+152,2026-01-12 10:58:28,2026-01-12 23:58:28,Concluído,Unidade B,Manutenção,Média,48,12.1,TRUE
+153,2025-11-18 10:58:28,,Em andamento,Unidade B,Manutenção,Alta,24,,
+154,2025-11-06 10:58:28,,Aberto,Unidade B,Incidente,Alta,24,,
+155,2025-11-29 10:58:28,2025-11-30 18:58:28,Concluído,Unidade A,Suporte Técnico,Média,48,31.1,TRUE
+156,2025-10-31 10:58:28,,Aberto,Unidade C,Suporte Técnico,Média,48,,
+157,2026-01-14 10:58:28,,Aberto,Unidade C,Solicitação,Alta,24,,
+158,2025-11-21 10:58:28,2025-11-22 15:58:28,Concluído,Unidade A,Manutenção,Baixa,72,28.1,TRUE
+159,2026-01-09 10:58:28,,Em andamento,Unidade B,Incidente,Baixa,72,,
+160,2025-11-22 10:58:28,,Aberto,Unidade B,Incidente,Alta,24,,
+161,2025-11-12 10:58:28,,Aberto,Unidade C,Incidente,Média,48,,
+162,2025-11-07 10:58:28,,Em andamento,Unidade A,Suporte Técnico,Baixa,72,,
+163,2026-01-06 10:58:28,,Aberto,Unidade C,Solicitação,Média,48,,
+164,2025-12-07 10:58:28,,Aberto,Unidade B,Incidente,Alta,24,,
+165,2025-12-30 10:58:28,,Aberto,Unidade D,Suporte Técnico,Média,48,,
+166,2025-11-19 10:58:28,2025-11-20 06:58:28,Concluído,Unidade C,Solicitação,Baixa,72,19.1,TRUE
+167,2025-11-02 10:58:28,2025-11-04 13:58:28,Concluído,Unidade D,Manutenção,Baixa,72,19.2,TRUE
+168,2026-01-01 10:58:28,,Em andamento,Unidade C,Manutenção,Alta,24,,
+169,2026-01-11 10:58:28,,Em andamento,Unidade B,Manutenção,Baixa,72,,
+170,2025-12-02 10:58:28,,Em andamento,Unidade D,Solicitação,Média,48,,
+171,2025-11-22 10:58:28,,Em andamento,Unidade D,Incidente,Alta,24,,
+172,2025-10-27 10:58:28,2025-10-27 13:58:28,Concluído,Unidade A,Manutenção,Alta,24,2.1,TRUE
+173,2025-11-25 10:58:28,,Aberto,Unidade D,Manutenção,Alta,24,,
+174,2025-11-11 10:58:28,,Em andamento,Unidade C,Incidente,Média,48,,
+175,2026-01-01 10:58:28,,Aberto,Unidade A,Suporte Técnico,Alta,24,,
+176,2025-12-30 10:58:28,,Em andamento,Unidade D,Suporte Técnico,Baixa,72,,
+177,2025-12-27 10:58:28,,Aberto,Unidade D,Incidente,Baixa,72,,
+178,2025-12-04 10:58:28,2025-12-05 23:58:28,Concluído,Unidade A,Solicitação,Baixa,72,5.2,TRUE
+179,2026-01-14 10:58:28,,Em andamento,Unidade B,Manutenção,Baixa,72,,
+180,2025-11-28 10:58:28,,Aberto,Unidade D,Incidente,Média,48,,
+181,2025-12-31 10:58:28,2026-01-03 07:58:28,Concluído,Unidade D,Manutenção,Alta,24,9.3,FALSE
+182,2025-12-24 10:58:28,,Em andamento,Unidade B,Solicitação,Alta,24,,
+183,2025-11-22 10:58:28,,Aberto,Unidade C,Manutenção,Média,48,,
+184,2025-12-10 10:58:28,,Em andamento,Unidade B,Manutenção,Média,48,,
+185,2025-11-09 10:58:28,,Aberto,Unidade D,Solicitação,Baixa,72,,
+186,2025-12-31 10:58:28,,Em andamento,Unidade C,Suporte Técnico,Alta,24,,
+187,2025-10-24 10:58:28,,Aberto,Unidade A,Solicitação,Alta,24,,
+188,2025-12-03 10:58:28,2025-12-05 01:58:28,Concluído,Unidade C,Manutenção,Alta,24,7.2,FALSE
+189,2025-11-12 10:58:28,,Em andamento,Unidade C,Suporte Técnico,Alta,24,,
+190,2025-10-25 10:58:28,2025-10-27 09:58:28,Concluído,Unidade A,Solicitação,Média,48,15.2,TRUE
+191,2025-12-30 10:58:28,2026-01-01 07:58:28,Concluído,Unidade D,Suporte Técnico,Baixa,72,13.2,TRUE
+192,2025-11-01 10:58:28,2025-11-01 16:58:28,Concluído,Unidade C,Suporte Técnico,Baixa,72,5.1,TRUE
+193,2025-12-13 10:58:28,,Em andamento,Unidade D,Solicitação,Baixa,72,,
+194,2025-12-09 10:58:28,2025-12-10 10:58:28,Concluído,Unidade D,Manutenção,Alta,24,23.1,TRUE
+195,2025-12-01 10:58:28,2025-12-03 05:58:28,Concluído,Unidade A,Manutenção,Alta,24,11.2,FALSE
+196,2025-11-22 10:58:28,,Aberto,Unidade B,Incidente,Alta,24,,
+197,2026-01-16 10:58:28,,Em andamento,Unidade B,Manutenção,Baixa,72,,
+198,2025-12-01 10:58:28,,Aberto,Unidade A,Incidente,Média,48,,
+199,2025-11-12 10:58:28,,Aberto,Unidade D,Manutenção,Baixa,72,,
+200,2025-12-03 10:58:28,,Aberto,Unidade D,Solicitação,Alta,24,,
+201,2026-01-15 10:58:28,,Em andamento,Unidade C,Incidente,Média,48,,
+202,2025-11-12 10:58:28,,Em andamento,Unidade C,Solicitação,Média,48,,
+203,2025-12-29 10:58:28,,Em andamento,Unidade D,Incidente,Baixa,72,,
+204,2026-01-16 10:58:28,2026-01-19 08:58:28,Concluído,Unidade C,Solicitação,Baixa,72,10.3,TRUE
+205,2025-11-08 10:58:28,2025-11-09 01:58:28,Concluído,Unidade C,Manutenção,Baixa,72,14.1,TRUE
+206,2026-01-20 10:58:28,2026-01-21 17:58:28,Concluído,Unidade B,Suporte Técnico,Baixa,72,30.1,TRUE
+207,2026-01-02 10:58:28,,Em andamento,Unidade C,Manutenção,Alta,24,,
+208,2026-01-11 10:58:28,,Aberto,Unidade C,Solicitação,Alta,24,,
+209,2025-12-10 10:58:28,,Em andamento,Unidade B,Suporte Técnico,Alta,24,,
+210,2025-12-27 10:58:28,2025-12-28 18:58:28,Concluído,Unidade D,Manutenção,Baixa,72,31.1,TRUE
+211,2025-12-04 10:58:28,,Aberto,Unidade D,Incidente,Alta,24,,
+212,2025-11-02 10:58:28,,Aberto,Unidade D,Suporte Técnico,Baixa,72,,
+213,2025-11-19 10:58:28,,Aberto,Unidade A,Solicitação,Média,48,,
+214,2026-01-05 10:58:28,,Em andamento,Unidade A,Incidente,Média,48,,
+215,2025-11-19 10:58:28,,Aberto,Unidade C,Solicitação,Média,48,,
+216,2025-12-31 10:58:28,,Aberto,Unidade A,Solicitação,Média,48,,
+217,2025-11-24 10:58:28,,Aberto,Unidade B,Manutenção,Média,48,,
+218,2026-01-08 10:58:28,,Aberto,Unidade A,Suporte Técnico,Baixa,72,,
+219,2025-10-30 10:58:28,,Aberto,Unidade B,Solicitação,Baixa,72,,
+220,2025-11-18 10:58:28,,Em andamento,Unidade A,Manutenção,Alta,24,,
+221,2026-01-17 10:58:28,2026-01-19 15:58:28,Concluído,Unidade D,Manutenção,Média,48,21.2,FALSE
+222,2025-11-22 10:58:28,,Em andamento,Unidade C,Incidente,Alta,24,,
+223,2025-12-05 10:58:28,,Em andamento,Unidade B,Solicitação,Média,48,,
+224,2026-01-06 10:58:28,2026-01-09 06:58:28,Concluído,Unidade A,Suporte Técnico,Média,48,8.3,FALSE
+225,2025-12-01 10:58:28,2025-12-04 08:58:28,Concluído,Unidade B,Manutenção,Média,48,10.3,FALSE
+226,2025-11-28 10:58:28,,Em andamento,Unidade A,Suporte Técnico,Alta,24,,
+227,2025-12-30 10:58:28,2025-12-30 21:58:28,Concluído,Unidade A,Manutenção,Alta,24,10.1,TRUE
+228,2026-01-19 10:58:28,,Em andamento,Unidade B,Solicitação,Alta,24,,
+229,2025-12-09 10:58:28,,Aberto,Unidade A,Incidente,Baixa,72,,
+230,2025-12-02 10:58:28,,Aberto,Unidade D,Solicitação,Média,48,,
+231,2026-01-20 10:58:28,,Aberto,Unidade A,Suporte Técnico,Baixa,72,,
+232,2025-11-03 10:58:28,2025-11-04 17:58:28,Concluído,Unidade C,Manutenção,Baixa,72,30.1,TRUE
+233,2025-12-11 10:58:28,,Aberto,Unidade B,Suporte Técnico,Alta,24,,
+234,2025-11-05 10:58:28,,Aberto,Unidade C,Incidente,Média,48,,
+235,2025-11-20 10:58:28,,Em andamento,Unidade B,Solicitação,Alta,24,,
+236,2025-12-17 10:58:28,,Em andamento,Unidade A,Suporte Técnico,Baixa,72,,
+237,2025-12-01 10:58:28,2025-12-02 02:58:28,Concluído,Unidade D,Solicitação,Baixa,72,15.1,TRUE
+238,2026-01-05 10:58:28,,Aberto,Unidade D,Manutenção,Alta,24,,
+239,2025-12-12 10:58:28,,Aberto,Unidade C,Suporte Técnico,Alta,24,,
+240,2026-01-17 10:58:28,2026-01-18 02:58:28,Concluído,Unidade D,Solicitação,Média,48,15.1,TRUE
+241,2025-11-06 10:58:28,,Aberto,Unidade A,Suporte Técnico,Alta,24,,
+242,2025-10-30 10:58:28,,Aberto,Unidade C,Suporte Técnico,Média,48,,
+243,2026-01-04 10:58:28,,Em andamento,Unidade B,Incidente,Baixa,72,,
+244,2025-12-28 10:58:28,,Em andamento,Unidade A,Suporte Técnico,Média,48,,
+245,2025-10-29 10:58:28,2025-10-30 11:58:28,Concluído,Unidade D,Suporte Técnico,Baixa,72,24.1,TRUE
+246,2025-10-27 10:58:28,,Em andamento,Unidade B,Incidente,Baixa,72,,
+247,2025-10-26 10:58:28,,Aberto,Unidade B,Incidente,Alta,24,,
+248,2025-12-14 10:58:28,2025-12-17 07:58:28,Concluído,Unidade B,Incidente,Média,48,9.3,FALSE
+249,2025-12-24 10:58:28,,Em andamento,Unidade B,Incidente,Média,48,,
+250,2025-11-14 10:58:28,2025-11-17 06:58:28,Concluído,Unidade A,Solicitação,Média,48,8.3,FALSE
+251,2025-12-28 10:58:28,,Aberto,Unidade A,Solicitação,Média,48,,
+252,2025-11-01 10:58:28,2025-11-03 20:58:28,Concluído,Unidade B,Suporte Técnico,Alta,24,26.2,FALSE
+253,2025-11-13 10:58:28,,Aberto,Unidade A,Solicitação,Baixa,72,,
+254,2025-10-24 10:58:28,2025-10-25 03:58:28,Concluído,Unidade C,Manutenção,Baixa,72,16.1,TRUE
+255,2025-12-06 10:58:28,2025-12-08 04:58:28,Concluído,Unidade A,Manutenção,Média,48,10.2,TRUE
+256,2025-12-19 10:58:28,,Em andamento,Unidade C,Incidente,Média,48,,
+257,2025-12-18 10:58:28,2025-12-20 20:58:28,Concluído,Unidade D,Solicitação,Baixa,72,26.2,TRUE
+258,2026-01-06 10:58:28,2026-01-09 00:58:28,Concluído,Unidade B,Incidente,Baixa,72,2.3,TRUE
+259,2025-12-21 10:58:28,2025-12-22 06:58:28,Concluído,Unidade B,Solicitação,Média,48,19.1,TRUE
+260,2025-12-19 10:58:28,2025-12-21 20:58:28,Concluído,Unidade C,Solicitação,Média,48,26.2,FALSE
+261,2025-12-11 10:58:28,,Aberto,Unidade B,Solicitação,Baixa,72,,
+262,2026-01-03 10:58:28,,Em andamento,Unidade C,Manutenção,Baixa,72,,
+263,2026-01-07 10:58:28,,Em andamento,Unidade B,Solicitação,Alta,24,,
+264,2025-11-12 10:58:28,,Aberto,Unidade C,Suporte Técnico,Alta,24,,
+265,2026-01-15 10:58:28,,Em andamento,Unidade A,Incidente,Baixa,72,,
+266,2025-10-29 10:58:28,,Em andamento,Unidade B,Solicitação,Alta,24,,
+267,2025-10-27 10:58:28,,Aberto,Unidade A,Suporte Técnico,Alta,24,,
+268,2025-11-02 10:58:28,2025-11-03 17:58:28,Concluído,Unidade A,Suporte Técnico,Média,48,30.1,TRUE
+269,2025-11-05 10:58:28,,Aberto,Unidade B,Manutenção,Alta,24,,
+270,2025-10-30 10:58:28,,Em andamento,Unidade C,Manutenção,Baixa,72,,
+271,2026-01-03 10:58:28,,Em andamento,Unidade D,Solicitação,Alta,24,,
+272,2025-11-25 10:58:28,,Em andamento,Unidade A,Incidente,Alta,24,,
+273,2026-01-13 10:58:28,2026-01-16 08:58:28,Concluído,Unidade D,Solicitação,Alta,24,10.3,FALSE
+274,2025-12-13 10:58:28,2025-12-16 07:58:28,Concluído,Unidade C,Incidente,Baixa,72,9.3,TRUE
+275,2025-11-25 10:58:28,2025-11-27 08:58:28,Concluído,Unidade B,Manutenção,Média,48,14.2,TRUE
+276,2026-01-20 10:58:28,2026-01-22 15:58:28,Concluído,Unidade C,Suporte Técnico,Baixa,72,21.2,TRUE
+277,2025-12-18 10:58:28,,Aberto,Unidade D,Solicitação,Alta,24,,
+278,2026-01-04 10:58:28,2026-01-05 01:58:28,Concluído,Unidade A,Suporte Técnico,Média,48,14.1,TRUE
+279,2026-01-17 10:58:28,2026-01-19 14:58:28,Concluído,Unidade D,Incidente,Baixa,72,20.2,TRUE
+280,2025-11-15 10:58:28,,Aberto,Unidade B,Solicitação,Média,48,,
+281,2025-11-16 10:58:28,2025-11-18 09:58:28,Concluído,Unidade D,Solicitação,Alta,24,15.2,FALSE
+282,2026-01-13 10:58:28,,Em andamento,Unidade A,Suporte Técnico,Baixa,72,,
+283,2025-12-19 10:58:28,,Em andamento,Unidade A,Solicitação,Alta,24,,
+284,2026-01-08 10:58:28,,Em andamento,Unidade B,Manutenção,Baixa,72,,
+285,2025-10-23 10:58:28,,Em andamento,Unidade A,Manutenção,Alta,24,,
+286,2025-12-03 10:58:28,2025-12-04 11:58:28,Concluído,Unidade A,Suporte Técnico,Média,48,24.1,TRUE
+287,2025-11-21 10:58:28,2025-11-23 02:58:28,Concluído,Unidade B,Solicitação,Média,48,8.2,TRUE
+288,2025-12-02 10:58:28,,Em andamento,Unidade A,Manutenção,Baixa,72,,
+289,2025-11-14 10:58:28,,Em andamento,Unidade B,Suporte Técnico,Baixa,72,,
+290,2025-12-04 10:58:28,,Em andamento,Unidade A,Incidente,Baixa,72,,
+291,2025-11-15 10:58:28,,Aberto,Unidade A,Manutenção,Baixa,72,,
+292,2025-11-20 10:58:28,2025-11-22 05:58:28,Concluído,Unidade C,Manutenção,Média,48,11.2,TRUE
+293,2025-11-13 10:58:28,,Em andamento,Unidade B,Suporte Técnico,Alta,24,,
+294,2025-11-23 10:58:28,2025-11-25 12:58:28,Concluído,Unidade D,Suporte Técnico,Alta,24,18.2,FALSE
+295,2025-12-18 10:58:28,,Aberto,Unidade A,Manutenção,Baixa,72,,
+296,2026-01-08 10:58:28,2026-01-10 14:58:28,Concluído,Unidade C,Incidente,Baixa,72,20.2,TRUE
+297,2026-01-19 10:58:28,,Em andamento,Unidade C,Solicitação,Média,48,,
+298,2025-11-05 10:58:28,,Aberto,Unidade C,Suporte Técnico,Média,48,,
+299,2026-01-07 10:58:28,,Em andamento,Unidade A,Incidente,Alta,24,,
+300,2025-11-23 10:58:28,,Aberto,Unidade B,Incidente,Alta,24,,
