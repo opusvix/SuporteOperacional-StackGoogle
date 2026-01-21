@@ -6,6 +6,8 @@ Organizações que prestam suporte operacional precisam acompanhar volume de ate
 
 Este projeto simula um ambiente real de suporte operacional genérico, com dados estruturados desde a origem até a visualização analítica.
 
+O dashboard permite acompanhar a eficiência operacional da organização, analisando volume de atendimentos, cumprimento de SLA e desempenho das unidades. A solução apoia gestores na identificação de gargalos, priorização de recursos e melhoria contínua dos serviços.
+
 ## 🎯 Objetivo
 
 Construir um pipeline completo de BI utilizando ferramentas do ecossistema Google para:
