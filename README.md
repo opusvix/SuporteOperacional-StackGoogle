@@ -27,8 +27,9 @@ BigQuery (staging + modelo analítico)
     ↓
 Looker Studio (Dashboards)
 ```
-
 📌 O projeto prioriza boas práticas de modelagem, separação entre dados brutos e tratados e storytelling analítico.
+
+![Arquitetura](arquitetura/arquitetura_pipeline.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
